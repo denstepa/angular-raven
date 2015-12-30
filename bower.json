@@ -1,7 +1,7 @@
 {
-  "name": "angular-raven",
-  "version": "0.6.2",
-  "main": "angular-raven.js",
+  "name": "ionic-angular-raven",
+  "version": "0.6.0",
+  "main": "ionic-angular-raven.js",
   "keywords": [
     "Patrick",
     "PatrickJS",
